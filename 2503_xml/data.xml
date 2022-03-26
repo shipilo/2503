@@ -1,0 +1,55 @@
+<StudyMaterials>
+	<books>
+		<book id = '1'>
+			<title>Математический анализ</title>
+			<author>Кудрявцев</author>
+			<section>Математика</section>
+			<year>2003</year>
+			<pages>300</pages>
+		</book>
+		<book id = '2'>
+			<title>Алгебра и геометрия</title>
+			<author>Карчевский</author>
+			<section>Математика</section>
+			<year>2018</year>
+			<pages>200</pages>
+		</book>
+		<book id = '3'>
+			<title>Эгоистичный ген</title>
+			<author>Чарльз Докинз</author>
+			<section>Биология</section>
+			<year>1989</year>
+			<pages>237</pages>
+		</book>
+	</books>
+	<lectures>
+		<lecture id = '1'>
+			<title>Введение в нейронауки</title>
+			<author>Роберт Сапольски</author>
+			<section>Биология</section>
+			<duration>60</duration>
+			<link>https://youtu.be/euPeQHc8v6w</link>
+			<format>видео</format>
+		</lecture>
+		<lecture id = '2'>
+			<title>Справедливость</title>
+			<author>Майкл Сэндел</author>
+			<section>Гуманитарные науки</section>
+			<duration>53</duration>
+			<link>https://youtu.be/-Qa6jmR_p0o</link>
+			<format>видео</format>
+		</lecture>
+	</lectures>
+	<abstracts>
+		<abstract id = '1'>
+			<title>Есть ли сознание у нейронной сети</title>
+			<author>SergioShpadi</author>
+			<section>Философия</section>
+			<keywords>
+				<keyword>Читальный зал</keyword>
+				<keyword>Научно-популярное</keyword>
+			</keywords>
+			<source>habr.com</source>
+		</abstract>
+	</abstracts>
+</StudyMaterials>

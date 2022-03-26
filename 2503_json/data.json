@@ -1,0 +1,69 @@
+{
+  "Books": {
+    "BookArray": [
+      {
+        "bTitle": "Математический анализ",
+        "bAuthor": "Кудрявцев",
+        "bSection": "Математика",
+        "bYear": 2003,
+        "bPages": 300,
+        "bId": 1
+      },
+      {
+        "bTitle": "Алгебра и геометрия",
+        "bAuthor": "Карчевский",
+        "bSection": "Математика",
+        "bYear": 2018,
+        "bPages": 200,
+        "bId": 2
+      },
+      {
+        "bTitle": "Эгоистичный ген",
+        "bAuthor": "Чарльз Докинз",
+        "bSection": "Биология",
+        "bYear": 1989,
+        "bPages": 237,
+        "bId": 3
+      }
+    ]
+  },
+  "Lectures": {
+    "LectureArray": [
+      {
+        "lTitle": "Введение в нейронауки",
+        "lAuthor": "Роберт Сапольски",
+        "lSection": "Биология",
+        "lDuration": 60,
+        "lLink": "https://youtu.be/euPeQHc8v6w",
+        "lFormat": "видео",
+        "lId": 1
+      },
+      {
+        "lTitle": "Справедливость",
+        "lAuthor": "Майкл Сэндел",
+        "lSection": "Гуманитарные науки",
+        "lDuration": 53,
+        "lLink": "https://youtu.be/-Qa6jmR_p0o",
+        "lFormat": "видео",
+        "lId": 2
+      }
+    ]
+  },
+  "Abstracts": {
+    "AbstractArray": [      
+      {
+        "aTitle": "Есть ли сознание у нейронной сети",
+        "aAuthor": "SergioShpadi",
+        "aSection": "Философия",
+        "aKeywords": {
+          "KeywordsArray": [
+            "Читальный зал",
+            "Научно-популярное"
+          ]
+        },
+        "aSource": "habr.com",
+        "aId": 1
+      }
+    ]
+  }
+}
